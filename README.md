@@ -1,2 +1,2 @@
-# Java-ohjelmointi-
+# Java-ohjelmointi
 Repo kotitehtävien palautusta varten
